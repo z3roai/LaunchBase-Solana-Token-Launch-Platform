@@ -111,7 +111,7 @@ pumpfun-smart-contract-frontend-backend/
 ## Contact
 
 For questions or collaboration:
-- **Telegram**: [@soladity](https://t.me/soladity)
+- **Telegram**: [@Ferris](https://t.me/ferris_dev)
 
 ---
 
